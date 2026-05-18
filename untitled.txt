@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lahore Luxury Rent A Car</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{
+font-family:Arial;
+margin:0;
+padding:0;
+background:#f5f5f5;
+text-align:center;
+}
+header{
+background:black;
+color:white;
+padding:30px;
+}
+.card{
+background:white;
+margin:20px;
+padding:20px;
+border-radius:15px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+.btn{
+display:inline-block;
+padding:15px 25px;
+background:black;
+color:white;
+text-decoration:none;
+border-radius:10px;
+margin-top:15px;
+}
+.whatsapp{
+background:green;
+}
+img{
+width:90%;
+max-width:500px;
+border-radius:20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Lahore Luxury RENT A CAR</h1>
+<p>Premium Rent A Car Services in Lahore</p>
+</header>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1200&auto=format&fit=crop">
+
+<h2>Jetour X70 Plus Deluxe</h2>
+
+<p>15,000 PKR Per Day</p>
+
+<p>✔ With Driver</p>
+<p>✔ Without Petrol</p>
+<p>✔ Available Only in Lahore</p>
+
+<a class="btn" href="tel:03104569041">Call Now</a>
+<br><br>
+<a class="btn whatsapp" href="https://wa.me/923104569041">WhatsApp Booking</a>
+
+</div>
+
+<div class="card">
+<h2>Contact Us</h2>
+<p>📞 03104569041</p>
+<p>📍 Lahore, Pakistan</p>
+</div>
+
+</body>
+</html>
